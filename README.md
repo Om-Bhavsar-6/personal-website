@@ -5,7 +5,7 @@ Om Bhavsar - Personal Portfolio 🌐
 This is my personal portfolio website built using **HTML** and **CSS**. It showcases my background, projects, and contact information.
 
 🚀 Live Demo
-👉 [Click here to view the site](https://om-bhavsar-6.github.io/personal-website/)
+👉 [Click here to view the site]()](https://github.com/Om-Bhavsar-6/personal-website)
 
 📁 Project Structure
 personal-website/
